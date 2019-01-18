@@ -23,7 +23,7 @@
     "bfile": "~0.2.1",
     "bns": "~0.9.0",
     "bsert": "~0.0.10",
-    "hsd": "~0.0.0"
+    "namebase-hsd": "=0.0.10"
   },
   "devDependencies": {},
   "engines": {
