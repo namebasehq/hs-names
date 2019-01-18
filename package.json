@@ -1,20 +1,20 @@
 {
-  "name": "hs-names",
+  "name": "namebase-hs-names",
   "version": "0.0.0",
-  "private": true,
+  "private": false,
   "description": "Pre-reserved handshake names",
   "keywords": [
     "handshake",
     "hns"
   ],
   "license": "MIT",
-  "repository": "git://github.com/handshake-org/hs-names.git",
+  "repository": "git://github.com/namebasehq/hs-names.git",
   "homepage": "https://github.com/handshake-org/hs-names",
   "bugs": {
     "url": "https://github.com/handshake-org/hs-names/issues"
   },
   "author": "Christopher Jeffrey <chjjeffrey@gmail.com>",
-  "main": "./lib/util.js",
+  "main": "./lib/index.js",
   "scripts": {
     "lint": "eslint *.js || exit 0"
   },
