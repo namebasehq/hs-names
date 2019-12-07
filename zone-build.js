@@ -8,7 +8,7 @@ const assert = require('assert');
 const Path = require('path');
 const fs = require('bfile');
 const bio = require('bufio');
-const Resource = require('namebse-hsd/lib/dns/resource');
+const Resource = require('namebase-hsd/lib/dns/resource');
 const util = require('./util');
 
 const ZONE_JSON = Path.resolve(__dirname, 'build', 'root.json');

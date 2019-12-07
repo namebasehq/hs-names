@@ -1,6 +1,6 @@
 {
   "name": "namebase-hs-names",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "private": false,
   "description": "Pre-reserved handshake names",
   "keywords": [
@@ -23,7 +23,7 @@
     "bfile": "~0.2.1",
     "bns": "~0.9.0",
     "bsert": "~0.0.10",
-    "namebase-hsd": "=0.0.17"
+    "namebase-hsd": "=0.0.29"
   },
   "devDependencies": {},
   "engines": {
